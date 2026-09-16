@@ -1,0 +1,8 @@
+{
+  "versionCode": 14,
+  "versionName": "1.6.6",
+  "apkUrl": "https://github.com/avtoilatoi/youtube-car/releases/download/v1.6.6/Youtube_car_v1.6.6.apk",
+  "sha256": "5A5EBACE2015FF6097FFF804EE5E878493F577F280F552BBDB572F2962D670A4",
+  "forceUpdate": false,
+  "releaseNotes": "Bổ sung lịch sử tìm kiếm, double Next chuyển đổi Google Maps và cải thiện tìm kiếm giọng nói."
+}
